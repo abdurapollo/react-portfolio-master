@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Abdur Rahman",
+    "occupation": "PHP Developer & Doing React Real-Time Projects @CleverProgrammer",
+    "description": "PHP Developer by Professinal but want to become a Full Stack React JS Developer.",
+    "image": "profPic.jpg",
+    "bio": "My name is Abdur Rahman, I'm a PHP Developer and want to become a Full Stack ReactJS Developer. Currently I'm working at Sgate Tech Solution Pvt. Ltd. ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "abdjnnce@gmail.com",
+    "phone": "+91 8447187240",
+    "address": {
+      "street": "Sarita Vihar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zip": "ABC 123 "
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100001980977209",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abdur-rahman-ba5a211b6/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/rahman.abdur2003/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/sonnysangha",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Jawaharlal Nehru National College of Engineering, Karnataka",
+        "degree": "B.E in Telecommunication",
+        "graduated": "June 2013",
+        "description": "Graduated"
+      }
+    ],
+    "work": [
+      {
+        "company": "Sgate Tech Solution Pvt Ltd.",
+        "title": "Senior Software Developer",
+        "years": "Dec 2019 - Present",
+        "description": "Building Logistics and Transportation Related Software."
+      },
+      {
+        "company": "Apollo Asia Travel Group",
+        "title": "Php Developer",
+        "years": "May 2016 - Dec 2019",
+        "description": "Building Travel, Travel Packages Booking Website, Media Software, Tracking Employees Attendance Software, Accounting Software etc."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "PHP",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "Javascript",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MySql",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
